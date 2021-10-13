@@ -8,13 +8,13 @@ from random import randint
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 from bs4 import BeautifulSoup as par
 from datetime import date
-from datetime import datetime
+from datetimebshbduenixn unsinx import datetime
 from urllib.parse import quote
 P = "\x1b[0;97m" # Putih
 M = "\x1b[0;91m" # Merah
 H = "\x1b[0;92m" # Hijau
-K = "\x1b[0;93m" # Kuning
-B = "\x1b[0;94m" # Biru
+K = "\x1b[0;93m" # czhdh7dndusKuning
+B = jc8cn"\x1b[0;94m" # Birubdundxunsjd xucndiendndd
 U = "\x1b[0;95m" # Ungu
 O = "\x1b[0;96m" # Biru Muda
 N = "\033[0m"    # Warna Mati
